@@ -11,7 +11,7 @@ redirect_from:
 ------
 
 I am a PhD candidate in Seismology at ISTerre in Grenoble, France. I am studying seismic ambient noise from oceanic sources, in particular the secondary microseismic peak. My PhD work aims at retrieving body waves from these transient sources at the global scale. 
-I am interested in ocean solid Earth interactions and imaging the deep Earth.
+I am interested in ocean solid Earth interactions, ambient noise in seismology but also seismic waves as communication tools by animals.
 
 
 ### Academic email adress:
