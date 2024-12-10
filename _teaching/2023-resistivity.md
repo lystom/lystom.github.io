@@ -4,7 +4,7 @@ collection: teaching
 type: "Practical Work"
 permalink: /teaching/2023-geodynamo
 venue: "Université Grenoble Alpes, PHITEM"
-date: Spring 2023, Spring 2024
+date: 2023-02-01
 location: "Grenoble, France"
 ---
 
