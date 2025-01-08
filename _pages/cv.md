@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * Ph.D in Earth Sciences, Université Grenoble Alpes, **2022-2025** (expected) *Advisors: Pierre Boué and Laurent Stehly*

@@ -24,32 +24,32 @@ author:
   avatar           : "/images/photo_recente.jpg"
   name             : "Links and Info"
   pronouns         : "she/her"  
-  bio              : "Hi! I'm Lisa, PhD candidate in Seismology. My research interests are ocean/Earth interface."
+  bio              : "Hi! I'm Lisa, PhD candidate in Seismology. My research interests are ocean/Earth interface and global seismology."
   location         : "Grenoble, France"
   employer         : "Université Grenoble Alpes"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lisa.tomasetto@univ-grenoble-alpes.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Z7y6v6UAAAAJ&hl=fr&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-0705-1541"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Lisa-Tomasetto"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "lystom"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/lisa-tomasetto # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
