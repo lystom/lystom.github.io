@@ -3,7 +3,7 @@ title: "Opportune detections of global P‐wave propagation from microseisms int
 collection: publications
 category: manuscripts
 permalink: /publication/2023-06-22-opportune
-excerpt: 'This paper is about retrieving P-wave phases from a single microseismic event.'
+excerpt: 'This paper is about retrieving teleseismic P-wave phases from a single microseismic event on December 9 2014.'
 date: 2023-06-22
 venue: 'Comptes Rendus. Géoscience.'
 paperurl: 'https://comptes-rendus.academie-sciences.fr/geoscience/articles/10.5802/crgeos.222/'

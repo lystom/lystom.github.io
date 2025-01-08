@@ -3,7 +3,7 @@ title: "On the Stability of Mantle‐Sensitive P‐Wave Interference During a Se
 collection: publications
 category: manuscripts
 permalink: /publication/2024-04-18-stability
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2024-04-18
 venue: 'Geophysical Research Letters'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL108018'

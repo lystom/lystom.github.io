@@ -4,8 +4,8 @@ collection: talks
 type: "Talk"
 permalink: /talks/2023-AGU-short-term
 venue: "AGU Fall Meeting 2023"
-date: 2012-03-01
-location: "San Francisco, California"
+date: 2023-12-11
+location: "San Francisco, CA"
 ---
 
 **Highlighted Talk**

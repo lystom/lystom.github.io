@@ -21,7 +21,7 @@ repository               : "lystom/lystom.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_recente.jpg"
+  avatar           : "/images/photo_recente.jpg"
   name             : "Links and Info"
   pronouns         : "she/her"  
   bio              : "Hi! I'm Lisa, PhD candidate in Seismology. My research interests are ocean/Earth interface."
