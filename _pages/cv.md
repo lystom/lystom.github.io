@@ -9,9 +9,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Earth Sciences, Université Grenoble Alpes, **2022-2025** (expected) *Advisors: Pierre Boué and Laurent Stehly*
-* M.S. Earth Sciences & Engineering degree in Geophysics, École et Observatoire des Sciences de la Terre, **2018 - 2021**
-* Preparatory School, Lycée Henri Poincaré, **2016-2018**
+* Ph.D in Earth Sciences, Université Grenoble Alpes, Grenoble FRANCE. **2022-2025** (expected) *Advisors: Pierre Boué and Laurent Stehly*
+* M.S. Earth Sciences & Engineering degree in Geophysics, École et Observatoire des Sciences de la Terre, Strasbourg FRANCE. **2018 - 2021**
+* Preparatory School, Lycée Henri Poincaré, Nancy FRANCE. **2016-2018**
 
 Professional experience
 ======
@@ -29,9 +29,9 @@ Professional experience
   
 Skills
 ======
-* Python Programming
+* Python, MATLAB
 * Signal Processing
-  * Seismic Interferometry
+* Seismic Interferometry
 * WAVEWATCH III
 * GitHub
 
